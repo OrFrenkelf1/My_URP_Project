@@ -43,6 +43,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Color: 0
     - _FlowSpeed: 0.05
     - _Metallic: 0.448
     - _QueueControl: 1
@@ -50,6 +51,7 @@ Material:
     - _RefractionStrength: 1.5
     - _Smoothness: 0.51
     m_Colors:
+    - _Color: {r: 0.3315125, g: 0.33962262, b: 0.20986114, a: 1}
     - _Direction: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7512937098856562995
