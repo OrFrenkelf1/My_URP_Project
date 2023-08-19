@@ -45,7 +45,7 @@ Material:
     m_Floats:
     - _Color: 0
     - _FlowSpeed: 0.05
-    - _Metallic: 0.448
+    - _Metallic: 0.1
     - _QueueControl: 1
     - _QueueOffset: 0
     - _RefractionStrength: 1.5
